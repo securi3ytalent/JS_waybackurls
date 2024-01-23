@@ -31,6 +31,6 @@ Accept line-delimited domains on stdin, fetch known URLs from the Wayback Machin
 ```
 
 
-##Credit
+## Credit
 
 This tool was inspired by @tomnomnom script. Thanks to them for the great idea!
