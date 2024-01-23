@@ -1,5 +1,5 @@
 
-# waybackurls
+# JS_waybackurls
 
 Accept line-delimited domains on stdin, fetch known URLs from the Wayback Machine for *.domain and output them on stdout built using javascript(nodejs)
 
@@ -12,6 +12,9 @@ Accept line-delimited domains on stdin, fetch known URLs from the Wayback Machin
 
 - [@Securi3yTalent](https://twitter.com/Securi3yTalent)
 
+## Haw To Use
+
+- [@Securi3yTalent](https://youtu.be/MPpVfmHJFLo)
 
 
 ## Deployment
